@@ -1,4 +1,4 @@
-mport tkinter as tk
+import tkinter as tk
 from pynput.mouse import Controller
 import threading
 import time
